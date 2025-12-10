@@ -8,34 +8,32 @@ The platform allows users to upload, tag, search, comment on, and download datas
 
 The repository is organized into three main parts:
 
-.
-├── backend/                 # ASP.NET Core Web API
-│   ├── DatasetSharingPlatform.Api.sln
-│   ├── DatasetSharingPlatform.Api/
-│   │   ├── Controllers/     # API controllers 
-│   │   ├── Data/            # DbContext, EF Core configuration
-│   │   ├── DTOs/            # Data transfer objects used by the API
-│   │   ├── Models/          # Entity classes mapped to database tables
-│   │   ├── Properties/
-│   │   ├── appsettings.json # Configuration (including DB connection string)
-│   │   └── Program.cs / Startup.cs
-│   └── ...                  # Other backend support files
+├── backend/ # ASP.NET Core Web API
+│ ├── DatasetSharingPlatform.Api.sln
+│ ├── DatasetSharingPlatform.Api/
+│ │ ├── Controllers/ # API controllers
+│ │ ├── Data/ # DbContext, EF Core configuration
+│ │ ├── DTOs/ # Data transfer objects
+│ │ ├── Models/ # Entity classes
+│ │ ├── Properties/
+│ │ ├── appsettings.json # DB config
+│ │ ├── Program.cs / Startup.cs
+│ │ └── ...
 │
-├── frontend/                # Vue.js single-page application 
-│   ├── package.json
-│   ├── vue.config.js
-│   ├── src/
-│   │   ├── views/           # Pages (Login, MainPage, SearchDataSet, DatasetDetail, etc.)
-│   │   ├── components/      # Reusable UI components
-│   │   ├── router/          # Vue Router configuration
-│   │   ├── services/
-│   │   │   └── axios.js     # Axios instance & API base URL
-│   │   └── store/           # (If used) global state management
-│   └── public/
+├── frontend/ # Vue.js single-page application
+│ ├── package.json
+│ ├── vue.config.js
+│ ├── src/
+│ │ ├── views/ # Pages
+│ │ ├── components/ # UI components
+│ │ ├── router/ # Vue Router configuration
+│ │ ├── services/ # axios.js etc.
+│ │ └── store/
+│ └── public/
 │
 └── database/
-    ├── script.sql           # Database schema (tables, indexes, constraints)
-    └── .bak/.mdf # Backup or attached database files
+├── script.sql # Database schema
+└── *.bak / *.mdf # Backup or actual DB file
 
 ---
 ## 2. Dependencies
