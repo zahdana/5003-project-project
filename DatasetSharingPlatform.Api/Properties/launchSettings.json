@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "DatasetSharingPlatform.Api": {
+      "commandName": "Project",
+      "applicationUrl": "https://localhost:7275;http://localhost:5275",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,441 @@
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.staticwebassets.endpoints.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.exe
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.deps.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.runtimeconfig.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Humanizer.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.AssemblyReference.cache
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfoInputs.cache
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfo.cs
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.CoreCompileInputs.cache
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\scopedcss\bundle\DatasetSharingPlatform.Api.styles.css
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets\msbuild.DatasetSharingPlatform.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets\msbuild.DatasetSharingPlatform.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.DatasetSharingPlatform.Api.props
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DatasetSharingPlatform.Api.props
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DatasetSharingPlatform.Api.props
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetS.692FFCDA.Up2Date
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\refint\DatasetSharingPlatform.Api.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.genruntimeconfig.cache
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\ref\DatasetSharingPlatform.Api.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\package-lock.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\package.json
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\CsvHelper.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\SharpCompress.dll
+E:\毕业设计\DatasetSharingPlatform\DatasetSharingPlatform\DatasetSharingPlatform.Api\bin\Debug\net8.0\ZstdSharp.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\package-lock.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\package.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.staticwebassets.endpoints.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.exe
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.deps.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.runtimeconfig.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\CsvHelper.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Humanizer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\SharpCompress.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ZstdSharp.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.AssemblyReference.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfoInputs.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfo.cs
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.CoreCompileInputs.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\scopedcss\bundle\DatasetSharingPlatform.Api.styles.css
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\swae.build.ex.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetS.692FFCDA.Up2Date
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\refint\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.genruntimeconfig.cache
+E:\A-document-course report\SDSC 5003\5003 group project\backend\DatasetSharingPlatform.Api\obj\Debug\net8.0\ref\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\appsettings.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\package-lock.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\package.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.staticwebassets.endpoints.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.exe
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.deps.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.runtimeconfig.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Core.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\CsvHelper.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Humanizer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\SharpCompress.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ZstdSharp.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.AssemblyReference.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfoInputs.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.AssemblyInfo.cs
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.csproj.CoreCompileInputs.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\scopedcss\bundle\DatasetSharingPlatform.Api.styles.css
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\swae.build.ex.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetS.692FFCDA.Up2Date
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\refint\DatasetSharingPlatform.Api.dll
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.pdb
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\DatasetSharingPlatform.Api.genruntimeconfig.cache
+E:\A-document-course report\SDSC 5003\5003 group project\project\DatasetSharingPlatform.Api\obj\Debug\net8.0\ref\DatasetSharingPlatform.Api.dll
